@@ -8,6 +8,8 @@ ENA 203-01
 
 # Confounding the Saint with the Rogue: Emerson’s “Self-Reliance” Through the Lens of Scriptural Principles
 
+----
+
 Ralph Waldo Emerson, throughout the essay “Self-Reliance,” uses bold rhetoric to awaken the same boldness in his audience. Although Emerson’s advocation for bravery and proactivity is commendable, the egocentrism, superiority complex, willful forgetfulness, and inconsistency that he promotes contradict the camaraderie, selflessness, lifestyle of remembrance, and faithfulness that scripture encourages.
 
 A founding father of Transcendentalism, Emerson “shared a key belief [of the philosophy] that each individual could transcend, or move beyond, the physical world of the senses into a deeper spiritual experience through free will and intuition” (Biography). Transcendentalism has its roots in the Unitarian Church, a non-messianic offshoot of English Protestantism; not surprisingly, many facets of this philosophy border on theology without ever entering the realm of religious doctrine (Transcendentalism).
