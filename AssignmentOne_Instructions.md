@@ -12,13 +12,18 @@ If you’ve been sitting on a manuscript that has yet to see the light of day, a
 
 This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can provide some insights for aspiring authors. Your document is not going to put itself on the market, so let’s begin the process of self-publishing through KDP.
 
-## 1: Visitng [KDP.Amazon.com](https://kdp.amazon.com/en_US?ref_=TN_si)
+## 1: Visiting [KDP.Amazon.com](https://kdp.amazon.com/en_US?ref_=TN_si)
+At this point, feel free to open another tab and walk through the process as you learn. For every step, turn your knowledge into action with an immediate application. Then, your dream of publishing that manuscript will no longer be a distant aspiration; in fact, your level of progress may take you by surprise.
 
-## **FAQ**
+## **FAQ** - Let's put those burning questions to rest.
 >**Q:** The self-publishing platform has the word Kindle in the name, and the Kindle is an e-book tablet.  Does that mean that I can only publish electronic books?
 >
 >**A:**
 >
->**Q:**
+>**Q:** What about the bottom line? How much profit will I make per book?
 >
->**A:**
+>**A:** Your profit margin depends both on the medium of publication and on your choice of price.
+>
+>**Q:** How do I receive royalties?
+>
+>**A:** A: As part of your user profile, Amazon will ask for your bank account number and routing number to set up convenient direct deposits.
