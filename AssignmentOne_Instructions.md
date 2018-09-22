@@ -19,11 +19,11 @@ At this point, feel free to open another tab and walk through the process as you
 >**Q:** The self-publishing platform has the word Kindle in the name, and the Kindle is an e-book tablet.  Does that mean that I can only publish electronic books?
 >
 >**A:**
->
+*****
 >**Q:** What about the bottom line? How much profit will I make per book?
 >
 >**A:** Your profit margin depends both on the medium of publication and on your choice of price.
->
+*****
 >**Q:** How do I receive royalties?
 >
 >**A:** A: As part of your user profile, Amazon will ask for your bank account number and routing number to set up convenient direct deposits.
