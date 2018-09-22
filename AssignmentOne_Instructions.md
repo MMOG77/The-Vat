@@ -18,7 +18,10 @@ At this point, feel free to open another tab and walk through the process as you
 ## **FAQ** - Let's put those burning questions to rest.
 >**Q:** The self-publishing platform has the word Kindle in the name, and the Kindle is an e-book tablet.  Does that mean that I can only publish electronic books?
 >
->**A:**
+>**A:** Kindle Direct Publishing distributes both paperbacks and e-books. True, KDP used to be a platform only for electronic books, and Amazon’s CreateSpace site was the platform for paperbacks, but now KDP handles both. Amazon is now directing many authors who started on CreateSpace to transfer their content to KDP.
+*****
+>**Q:** Can I upload recordings through KDP to create audiobooks?
+>**A:** No. Amazon has a separate self-publishing platform for audiobooks: [Audiobook Creation Exchange](https://www.amazon.com/gp/education-publishing/Audiobooks?ref=edupub_hm_wp_ab) (ACX).
 *****
 >**Q:** What about the bottom line? How much profit will I make per book?
 >
