@@ -22,7 +22,9 @@ At this point, feel free to open another tab and walk through the process as you
 
 Sign in with the same credentials that you would use for regular Amazon shopping. Once logged in, you will find yourself at the bookshelf, your personal control panel. I have two previous projects on mine, as you can see from the screencap below. For the tutorial’s sake, I will begin a new project from scratch. Notice the blue plus signs above my previous projects.
 
-KDP offers two publication paths: electronic books and paperbacks (see FAQ below). We will tackle paperback publishing&mdash;the more involved of the two processes&mdash;first. Click the top plus sign, and we will proceed to stage two.
+KDP offers two publication paths: electronic books and paperbacks (see FAQ below). We will tackle paperback publishing&mdash;the more involved of the two processes&mdash;first. Click the lower plus sign, and we will proceed to stage two.
+
+![KDP Bookshelf](https://github.com/MMOG77/The-Vat/blob/master/KDPsc2.png)
 
 ## 2. Entering Publication Information (Print)
 
