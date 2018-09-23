@@ -5,7 +5,7 @@ course: ENG 333
 due date: 9.27.2018
 ---
 
-# Self-Publishing E-books with Kindle Direct Publishing
+# Self-Publishing E-Books with Kindle Direct Publishing
 *****
 ## Introduction
 If you’ve been sitting on a manuscript that has yet to see the light of day, allow the Internet’s favorite  bookstore-turned-online-supermarket to give you a hand. Anyone with an Amazon account can now access Kindle Direct Publishing (KDP). As you will soon see, self-publishing is the process by which a formatted text document can become a book&mdash;digital or electronic! (If you are not already on Amazon, take a minute to register by [entering some basic information](https://www.amazon.com/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26action%3Dsign-out%26path%3D%252Fgp%252Fyourstore%252Fhome%26ref_%3Dnav_youraccount_signout%26signIn%3D1%26useRedirectOnSuccess%3D1&prevRID=KYVS0T5VM096M8BXSJEG&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=usflex&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0). Aspiring authors who already have some degree of notoriety should consider using their work e-mail, leveraging their accounts as side businesses.)
