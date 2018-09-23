@@ -12,7 +12,7 @@ If you’ve been sitting on a manuscript that has yet to see the light of day, a
 
 ![Starting an Amazon account](https://github.com/MMOG77/The-Vat/blob/master/AMAZONsc1.png)
 
-This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can provide some insights for aspiring authors. Your document is not going to put *itself* on the market, so let’s begin the process of self-publishing through KDP.
+This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can give first-timers an idea of what to expect. Your document is not going to put *itself* on the market, so let’s begin the process of self-publishing through KDP.
 
 ## 1: Visiting [KDP.Amazon.com](https://kdp.amazon.com/en_US?ref_=TN_si)
 
