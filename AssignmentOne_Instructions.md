@@ -8,7 +8,9 @@ due date: 9.27.2018
 # Self-Publishing with Kindle Direct Publishing
 *****
 ## Introduction
-If you’ve been sitting on a manuscript that has yet to see the light of day, allow the Internet’s favorite  bookstore-turned-online-supermarket to give you a hand. Anyone with an Amazon account can now access Kindle Direct Publishing (KDP). As you will soon see, self-publishing is the process by which a formatted text document can become a book&mdash;digital or electronic!
+If you’ve been sitting on a manuscript that has yet to see the light of day, allow the Internet’s favorite  bookstore-turned-online-supermarket to give you a hand. Anyone with an Amazon account can now access Kindle Direct Publishing (KDP). As you will soon see, self-publishing is the process by which a formatted text document can become a book&mdash;digital or electronic! (If you are not already on Amazon, take a minute to register by entering some basic information. Aspiring authors who already have some degree of notoriety should consider using their work e-mail, leveraging their accounts as side businesses.)
+
+![Starting an Amazon account](https://github.com/MMOG77/The-Vat/blob/master/AMAZONsc1.png)
 
 This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can provide some insights for aspiring authors. Your document is not going to put *itself* on the market, so let’s begin the process of self-publishing through KDP.
 
