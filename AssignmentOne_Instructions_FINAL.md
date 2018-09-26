@@ -46,11 +46,11 @@ Hold on; we’re almost to the fun part. Age and Grade ratings allow you to narr
 
 ## 3. Entering Content
 
-Just be sure to check out the official [list of supported file types](https://kdp.amazon.com/en_US/help/topic/G200634390) before uploading.
+This is the moment we've been waiting for. This stage is the point at which your words achieve Internet immortality! Just be sure to check out the official [list of supported file types](https://kdp.amazon.com/en_US/help/topic/G200634390) before uploading.
 
 ![Upload a text file](https://github.com/MMOG77/The-Vat/blob/master/KDPsc4.1.png)
 
-KDP offers two options for cover design. Authors with graphic arts skills can prepare a JPG or TIFF image to upload directly to the site. If your talent for visual arts is lacking, don't worry. KDP's Cover Creator software&mdash;a program similar to Microsoft PowerPoint&mdash;
+KDP offers two options for cover design. Authors with graphic arts skills can prepare a JPG or TIFF image to upload directly to the site. If your talent for visual arts is lacking, don't worry. KDP's Cover Creator software&mdash;a program similar to Microsoft PowerPoint&mdash;allows you to craft images from either a wallpaper background or a stock photograph. (If Amazon's stock photo library does not have the right picture for you, consider perusing [ShutterStock](https://www.shutterstock.com/?kw=shutterstock&gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMTytxEi4At5jpzx2xnRF0ixoQwQm-PB_CflZLAcD1nRJNmJR43GuLwaAr5qEALw_wcB&gclsrc=aw.ds&dclid=CNLo9vO-2d0CFU11AQodOOkIyg) or [Pexels](https://www.pexels.com/) to find the perfect fit for your content.)
 
 ![Upload or create cover](https://github.com/MMOG77/The-Vat/blob/master/KDPsc4.2.png)
 
