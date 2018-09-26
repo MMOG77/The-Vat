@@ -46,7 +46,17 @@ Hold on; we’re almost to the fun part. Age and Grade ratings allow you to narr
 
 ## 3. Entering Content
 
+Just be sure to check out the official [list of supported file types](https://kdp.amazon.com/en_US/help/topic/G200634390) before uploading.
+
+![Upload a text file](https://github.com/MMOG77/The-Vat/blob/master/KDPsc4.1.png)
+
+KDP offers two options for cover design. Authors with graphic arts skills can prepare a JPG or TIFF image to upload directly to the site. If your talent for visual arts is lacking, don't worry. KDP's Cover Creator software&mdash;a program similar to Microsoft PowerPoint&mdash;
+
+![Upload or create cover](https://github.com/MMOG77/The-Vat/blob/master/KDPsc4.2.png)
+
 ## 4. Entering Marketing Information
+
+At this point in the process, Amazon will try to convince you to enroll your book in several rewards programs ()
 
 **Before you go forth and take the literary world by storm, let's lay those burning questions to rest.**
 
