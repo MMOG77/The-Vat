@@ -26,7 +26,12 @@ KDP offers two publication paths: electronic books and paperbacks (see FAQ below
 
 ![KDP Bookshelf](https://github.com/MMOG77/The-Vat/blob/master/KDPsc2.png)
 
-## 2. Entering Publication Information (Print)
+## 2. Entering Publication Information
+
+Think of this next step as filling out an application for your book. To help place your work in the global market, identify the text’s language (red) with a pull-down menu. Next, enter your piece’s *name*: its title and possibly a subtitle (blue).
+![Language, Title, Subtitle](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.1.png)
+
+## 3. Entering Content
 
 ## **FAQ** - Let's lay those burning questions to rest.
 >**Q:** The self-publishing platform has the word Kindle in the name, and the Kindle is an e-book tablet.  Does that mean that I can only publish electronic books?
