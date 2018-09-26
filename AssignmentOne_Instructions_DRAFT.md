@@ -12,7 +12,7 @@ If you’ve been sitting on a manuscript that has yet to see the light of day, a
 
 ![Starting an Amazon account](https://github.com/MMOG77/The-Vat/blob/master/AMAZONsc1.png)
 
-This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can give first-timers an idea of what to expect. Your document is not going to put *itself* on the market, so let’s begin the process of self-publishing through KDP.
+No two authors bring the same plans to the table. Whether your goal is to thrill readers with the world’s next great beach read or galvanize the people to action with a political treatise, Amazon has you covered. This tutorial will consist of helpful screencaps of the various stages of self-publishing combined with tips for optimizing your self-publishing experience. I may not have invented self-publishing or created the Kindle Direct Publishing system, but I’ve been around this block, and I can give first-timers an idea of what to expect. Your document is not going to put *itself* on the market, so let’s begin the process of self-publishing through KDP.
 
 ## 1: Visiting [KDP.Amazon.com](https://kdp.amazon.com/en_US?ref_=TN_si)
 
@@ -31,10 +31,16 @@ KDP offers two publication paths: electronic books and paperbacks (see FAQ below
 Think of this next step as filling out an application for your book. To help place your work in the global market, identify the text’s language (red) with a pull-down menu. Next, enter your piece’s *name*: its title and possibly a subtitle (blue).
 ![Language, Title, Subtitle](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.1.png)
 
+
+![](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.2.png)
+
 ## 3. Entering Content
 
-## **FAQ** - Let's lay those burning questions to rest.
->**Q:** The self-publishing platform has the word Kindle in the name, and the Kindle is an e-book tablet.  Does that mean that I can only publish electronic books?
+
+**Before you go forth and take the literary world by storm, let's lay those burning questions to rest.**
+
+## **FAQ**
+>**Q:** Can I only publish electronic books through KDP?
 >
 >**A:** Kindle Direct Publishing distributes both paperbacks and e-books. True, KDP used to be a platform only for electronic books, and Amazon’s CreateSpace site was the platform for paperbacks, but now KDP handles both. Amazon is now directing many authors who started on CreateSpace to transfer their content to KDP.
 *****
