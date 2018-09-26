@@ -37,6 +37,10 @@ Most readers consume books of all genres in a serialized format. If your piece i
 Offer an electronic blurb about the book (purple). In the section immediately following, you can designate to KDP whether you want to retain a copyright or release a work into the public domain (gold). Be careful, though. [KDP only allows users to publish public domain content that they own or public domain content to which they have made a unique contribution.](https://kdp.amazon.com/en_US/help/topic/G200743940) If you’re looking to republish a classic without any alterations, forget about it.
 ![Description, Domain](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.3.png)
 
+![Keywords, Category](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.4.png)
+
+![Age Range, Pre-order](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.5.png)
+
 ## 3. Entering Content
 
 
