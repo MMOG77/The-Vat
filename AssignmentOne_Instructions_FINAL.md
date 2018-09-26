@@ -56,6 +56,7 @@ Hold on; we’re almost to the fun part. Age and Grade ratings allow you to narr
 >**A:** Kindle Direct Publishing distributes both paperbacks and e-books. True, KDP used to be a platform only for electronic books, and Amazon’s CreateSpace site was the platform for paperbacks, but now KDP handles both. Amazon is now directing many authors who started on CreateSpace to transfer their content to KDP.
 *****
 >**Q:** Can I upload recordings through KDP to create audiobooks?
+>
 >**A:** No. Amazon has a separate self-publishing platform for audiobooks: [Audiobook Creation Exchange](https://www.amazon.com/gp/education-publishing/Audiobooks?ref=edupub_hm_wp_ab) (ACX).
 *****
 >**Q:** What about the bottom line? How much profit will I make per book?
