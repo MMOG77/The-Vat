@@ -31,8 +31,8 @@ KDP offers two publication paths: electronic books and paperbacks (see FAQ below
 Think of this next step as filling out an application for your book. To help place your work in the global market, identify the text’s language (red) with a pull-down menu. Next, enter your piece’s *name*: its title and possibly a subtitle (blue).
 ![Language, Title, Subtitle](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.1.png)
 
-
-![](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.2.png)
+Most readers consume books of all genres in a serialized format. If your piece is part of a larger series, be sure to enter the name of the series and the number one to classify it as the first entry (green). Authors who plan on revising a book can update content and re-release it as a new edition (orange). Then enter your name or pseudonym (black), followed by the names of any collaboration partners (gray).
+![Series Info, Edition, Author, Collaborators](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.2.png)
 
 ## 3. Entering Content
 
