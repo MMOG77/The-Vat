@@ -37,6 +37,7 @@ Most readers consume books of all genres in a serialized format. If your piece i
 Offer an electronic blurb about the book (purple). In the section immediately following, you can designate to KDP whether you want to retain a copyright or release a work into the public domain (gold). Be careful, though. [KDP only allows users to publish public domain content that they own or public domain content to which they have made a unique contribution.](https://kdp.amazon.com/en_US/help/topic/G200743940) If you’re looking to republish a classic without any alterations, forget about it.
 ![Description, Domain](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.3.png)
 
+As insignificant as keywords (slate blue) and categories (pink) may seem, they are a part of the [SEO (Search Engine Optimization)](https://www.youtube.com/watch?v=hF515-0Tduk) process. The digital tags with which you earmark your book will allow potential readers to find it more easily. Trying to reach a specific audience? A well-labeled product in the digital age can perform some of the heavy lifting *for* you!
 ![Keywords, Category](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.4.png)
 
 Hold on; we’re almost to the fun part. Age and Grade ratings allow you to narrow down your audience according to maturity level (red, dotted). Finally, the last section of this stage (blue, dotted) allows authors the option of giving their book a delayed release and opening a pre-order campaign.
