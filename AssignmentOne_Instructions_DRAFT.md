@@ -39,10 +39,13 @@ Offer an electronic blurb about the book (purple). In the section immediately fo
 
 ![Keywords, Category](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.4.png)
 
+Hold on; we’re almost to the fun part. Age and Grade ratings allow you to narrow down your audience according to maturity level (red, dotted). Finally, the last section of this stage (blue, dotted) allows authors the option of giving their book a delayed release and opening a pre-order campaign.
+
 ![Age Range, Pre-order](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.5.png)
 
 ## 3. Entering Content
 
+## 4. Entering Marketing Information
 
 **Before you go forth and take the literary world by storm, let's lay those burning questions to rest.**
 
