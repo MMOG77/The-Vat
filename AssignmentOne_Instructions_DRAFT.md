@@ -34,6 +34,7 @@ Think of this next step as filling out an application for your book. To help pla
 Most readers consume books of all genres in a serialized format. If your piece is part of a larger series, be sure to enter the name of the series and the number one to classify it as the first entry (green). Authors who plan on revising a book can update content and re-release it as a new edition (orange). Then enter your name or pseudonym (black), followed by the names of any collaboration partners (gray).
 ![Series Info, Edition, Author, Collaborators](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.2.png)
 
+Offer an electronic blurb about the book (purple). In the section immediately following, you can designate to KDP whether you want to retain a copyright or release a work into the public domain (gold). Be careful, though.[KDP only allows users to publish public domain content that they own or public domain content to which they have made a unique contribution.](https://kdp.amazon.com/en_US/help/topic/G200743940) If you’re looking to republish a classic without any alterations, forget about it.
 ![Description, Domain](https://github.com/MMOG77/The-Vat/blob/master/KDPsc3.3.png)
 
 ## 3. Entering Content
