@@ -56,10 +56,14 @@ KDP offers two options for cover design. Authors with graphic arts skills can pr
 
 ## 4. Entering Marketing Information
 
-At this point in the process, Amazon will try to convince you to enroll your book in several rewards programs. For now, let's keep it simple. Select a royalty plan (green, dotted)&mdash;35% for e-books under $2.99, or 70% for e-books $2.99 and above. Name your price (orange, dotted) in the currency of your bank account, and voila!
+At this point in the process, Amazon will try to convince you to enroll your book in several rewards programs. For now, let's keep it simple. Select a royalty plan (green, dotted)&mdash;35% for e-books under $2.99, or 70% for e-books $2.99 and above. Name your price (orange, dotted) in the currency of your bank account, and voila! You're standing on the verge of publication!
 ![Money Money Money](https://github.com/MMOG77/The-Vat/blob/master/KDPsc5.1.png)
 
 ![Royalty plan chart](https://github.com/MMOG77/The-Vat/blob/master/KDPsc5.3.png)
+
+You can save your work as a draft here before committing to the launch button. Once you have reached the final draft of your manuscript, read the Terms & Conditions (or don't if you're feeling bold), and wait for about three days. Your kindle e-book will hit the digital shelves of the Amazon store in less than a week. Kudos.
+
+![Cherry on Top](https://github.com/MMOG77/The-Vat/blob/master/KDPsc5.2.png)
 
 **Before you go forth and take the literary world by storm, let's lay those burning questions to rest.**
 
