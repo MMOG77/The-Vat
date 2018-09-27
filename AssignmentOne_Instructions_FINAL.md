@@ -56,7 +56,7 @@ KDP offers two options for cover design. Authors with graphic arts skills can pr
 
 ## 4. Entering Marketing Information
 
-At this point in the process, Amazon will try to convince you to enroll your book in several rewards programs. For now, let's keep it simple. Select a royalty plan (green, dotted)&mdash;35% for e-books under $2.99, or 70% for e-books $2.99 and above.
+At this point in the process, Amazon will try to convince you to enroll your book in several rewards programs. For now, let's keep it simple. Select a royalty plan (green, dotted)&mdash;35% for e-books under $2.99, or 70% for e-books $2.99 and above. Name your price (orange, dotted) in the currency of your bank account,
 ![Money Money Money](https://github.com/MMOG77/The-Vat/blob/master/KDPsc5.1.png)
 
 ![Royalty plan chart](https://github.com/MMOG77/The-Vat/blob/master/KDPsc5.3.png)
