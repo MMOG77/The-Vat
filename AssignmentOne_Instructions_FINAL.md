@@ -75,6 +75,6 @@ At this point in the process, Amazon will try to convince you to enroll your boo
 *****
 >**Q:** How do I receive royalties?
 >
->**A:** A: As part of your user profile, Amazon will ask for your bank account number and routing number to set up convenient direct deposits.
+>**A:** As part of your user profile, Amazon will ask for your bank account number and routing number to set up convenient direct deposits.
 
 Now that you've armed yourself with knowledge, it's time to **start** the presses!
