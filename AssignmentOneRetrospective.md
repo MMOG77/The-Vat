@@ -11,6 +11,7 @@ The process of preparing and inserting images was fun but time-consuming.
 
 Cons
 1. Academic weight of assignment
+
 2. Questioning the complexity of my subject matter
 
 Pros
