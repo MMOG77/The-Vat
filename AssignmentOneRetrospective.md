@@ -13,7 +13,7 @@ Cons
 1. Academic weight of assignment
 2. Questioning the complexity of my subject matter
 
-Pros:
+Pros
 1.Formatting
 2.Illustrations
 3.Volume of content
