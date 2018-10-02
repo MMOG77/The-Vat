@@ -16,5 +16,7 @@ Cons
 Pros
 
 1.Formatting
+
 2.Illustrations
+
 3.Volume of content
