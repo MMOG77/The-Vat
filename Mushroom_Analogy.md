@@ -1,5 +1,5 @@
 # Group 6 (Lindsey, Nadia, Matt)
-# Analogy
+# Analogy Exercise
 
 **Statement:** Foragers should be aware that some wild mushrooms are toxic.
 
