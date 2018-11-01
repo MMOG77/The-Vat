@@ -8,6 +8,6 @@
 
 2. Uses of writing/composition in the workplace &mdash; **Autumn:** Taking orders from customers **Michaela:** Blogging **Matt:** Creating syllabi
 
-3.
+3. Resumes
 
-4. Final assignment suggestion: **Technical Napping**
+4. Final assignment suggestion:
