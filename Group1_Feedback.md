@@ -10,4 +10,4 @@
 
 3. Resumes
 
-4. Final assignment suggestion:
+4. Final assignment suggestion: **Technical Napping**
