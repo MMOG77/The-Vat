@@ -4,5 +4,5 @@
 
 - **Audience:** Farmers
 - **Research:**
-- **Illustration**
-- **Call to action:**
+- **Illustration** Bar graphs and charts contrasting conventional and organic farming, photographs contrasting the two, idyllic pictures of farming (for a warm tone)
+- **Call to action:** Switch to organic farming.
