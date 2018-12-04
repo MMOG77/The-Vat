@@ -1,4 +1,4 @@
 # Matt Waters
 ## Writing Habit Audit
 
-As I mentioned in the previous exercise (near the beginning of the semester), I like to write outlines for my work and flesh out the content section-by-section.
+As I mentioned in the previous exercise (near the beginning of the semester), I like to write outlines for my work and flesh out the content section-by-section. I am more likely to get a headstart on assignments that require (read: *allow*) creativity. If a project requires me to only report the facts, I am more likely to put it off
